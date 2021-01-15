@@ -1,0 +1,8 @@
+    En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras 
+explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+For: Es una estructura repetitiva, que sirve para generar bucles y realizar acciones como sumar, contrario
+
+&& o and: Es un operador logico, que sirve para comprar entre dos condiciones y las dos tienen que ser verdaderas para que sea verdadero
+|| u or: Otro operador logico que evalua entre dos condiciones y con que una condicion se cumple el resultado es verdadero.
+! : Seria lo contrario al igual, se usa para decir que algo es distinto

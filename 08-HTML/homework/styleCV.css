@@ -1,0 +1,20 @@
+.idCv{
+    display: block;
+    height: 100px;
+    width: 700px;
+    border-style: groove;
+    border-width: 5px;
+    border-color: black;
+    color: blue;
+}
+
+#cv{
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 793px;
+}
+
+
+
+

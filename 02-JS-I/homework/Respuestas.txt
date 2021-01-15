@@ -10,4 +10,11 @@ Strings: es una cadena de texto y un tipo de dato que puede almacenar una variab
 de texto pueden ser una palabra "Hola", una frase "Hola, como estas?", una letra "M" o un parrafo,
 cualquier texto en comillas es un strings.
 
-Funciones:
+Funciones: Son acciones que se van a realizar, los argumentos los elementos con los cuales se va 
+a realizar esas acciones, y el retur el valor que se devuelve, por ejemplo una funcion podria ser 
+lavar los platos, los argumentos serian el detergente y la esponja y retornaria elos platos limpios
+
+IF: es una estructura condicional que evalua una condicion y realiza una accion si el valor es verdadero
+de lo contrario hace otra accion.
+
+valores Booleanos: pueden ser true(verdadero) o false (False);
